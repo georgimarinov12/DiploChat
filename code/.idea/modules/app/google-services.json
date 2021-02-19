@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "713113833492",
+    "project_id": "diplochat-b07e4",
+    "storage_bucket": "diplochat-b07e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713113833492:android:f903e3a4ff0767e9869701",
+        "android_client_info": {
+          "package_name": "elsys.georgi.diplomna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713113833492-nibqvu5aa1n4hpgj4r5b58nmj7vtl700.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elsys.georgi.diplomna",
+            "certificate_hash": "9da38feaa416b0ca3e2086d163475aacb75bd979"
+          }
+        },
+        {
+          "client_id": "713113833492-4ipj1uhcfl0ttm98nintclrr4lo0jqcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRLx09Rf3Ksqbo00hf4FwReSuLLVULpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713113833492-4ipj1uhcfl0ttm98nintclrr4lo0jqcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
