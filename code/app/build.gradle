@@ -6,7 +6,7 @@ android {
     buildToolsVersion "30.0.1"
 
     defaultConfig {
-        applicationId "elsys.georgi.diplomna"
+        applicationId 'com.georgi.diplomna'
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1

@@ -1,4 +1,4 @@
-package elsys.georgi.diplomna;
+package com.georgi.diplomna;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
@@ -9,6 +9,8 @@ import android.os.Bundle;
 
 import com.google.android.material.tabs.TabLayout;
 import com.google.firebase.auth.FirebaseUser;
+
+import com.georgi.diplomna.R;
 
 
 public class MainActivity extends AppCompatActivity {

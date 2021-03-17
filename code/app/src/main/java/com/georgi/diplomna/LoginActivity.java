@@ -1,16 +1,17 @@
-package elsys.georgi.diplomna;
+package com.georgi.diplomna;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.inputmethod.ExtractedText;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
 import com.google.firebase.auth.FirebaseUser;
+
+import com.georgi.diplomna.R;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -32,6 +33,17 @@ public class LoginActivity extends AppCompatActivity {
                 SendUserToRegisterActivity();
             }
         });
+
+        LoginButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                AllowUserToLogin();
+            }
+        });
+    }
+
+    private void AllowUserToLogin() {
+
     }
 
     private void InitializeFields() {

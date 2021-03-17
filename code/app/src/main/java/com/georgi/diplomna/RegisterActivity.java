@@ -1,4 +1,4 @@
-package elsys.georgi.diplomna;
+package com.georgi.diplomna;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
